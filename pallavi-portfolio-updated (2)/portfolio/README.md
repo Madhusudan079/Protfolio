@@ -1,0 +1,28 @@
+# Pallavi Soldey — Portfolio
+
+Personal portfolio website built with TanStack Start, TypeScript, React, and Tailwind CSS.
+
+## Development
+
+You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
+
+## Build
+
+```sh
+npm run build
+npm run preview
+```
+
+## Built with
+
+- TanStack Start
+- TypeScript
+- React
+- Tailwind CSS
